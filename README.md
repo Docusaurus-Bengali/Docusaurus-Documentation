@@ -331,4 +331,4 @@ Este repositorio sirve como el **centro de conocimiento centralizado** de Wiedii
 - **Información corporativa** sobre nuestros procesos y metodologías
 
 **Copyright © 2024 Wiedii. Todos los derechos reservados.**
-**Built with Docusaurus for Wiedii Documentation Hub.**
+**Built with Docusaurus for Wiedii Documentation Hub**
