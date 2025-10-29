@@ -52,6 +52,6 @@ sidebar_position: 1
 
 - **`Historial de Facturación:`** Facilita la revisión de facturas de suscripción.
 
-- **`Gestión de Pagos:`** Permite gestionar los métodos de pago.
-
 - **`Transferencia de Ecosistema:`** El administrador puede transferir el ecosistema y la suscripción a otro usuario que pertenezca al mismo ecosistema.
+
+- **`Gestión de Pagos:`** Permite gestionar los métodos de pago.
