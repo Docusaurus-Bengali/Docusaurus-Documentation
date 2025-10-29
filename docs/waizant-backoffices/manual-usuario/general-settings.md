@@ -12,3 +12,18 @@ sidebar_position: 12
 
 - **Duration: Campo numérico donde se define cuántos días durará el periodo gratuito para nuevos usuarios.**
 - **Status: Mediante el interruptor (toggle), se puede activar o desactivar esta funcionalidad según las necesidades del sistema.**
+
+**Email Alerts for the Free Trial**
+
+**Aquí se configuran los recordatorios por correo electrónico que se enviarán a los usuarios próximos a finalizar su periodo de prueba.**
+
+- **Set the number of days prior to the end of the Free Trial: Indica cuántos días antes del vencimiento se enviará el primer correo de alerta.**
+- **Set the frequency of sending reminder emails: Define cada cuántos días se volverán a enviar los recordatorios por correo electrónico.**
+- **Status: Permite activar o desactivar el envío automático de estos correos.**
+
+**Alert Application**
+
+**Esta sección gestiona las alertas dentro de la aplicación (notificaciones internas) relacionadas con la finalización del periodo de prueba.**
+
+- **Set the number of days prior to the end of the Free Trial: Determina con cuántos días de anticipación el sistema mostrará alertas al usuario antes de que finalice el periodo.**
+- ***
