@@ -12,7 +12,8 @@ sidebar_position: 5
 
 ---
 
-**El móduloStore Users permite gestionar los usuarios registrados en la plataforma, diferenciando entre **Customers** "clientes con suscripción" y **Leads** "usuarios registrados sin suscripción".**
+**El módulo Store Users permite gestionar los usuarios registrados en la plataforma, diferenciando entre **Customers** "clientes con suscripción" y **Leads** "usuarios registrados sin suscripción".**
+
 **Desde este módulo es posible buscar, filtrar, exportar información en formato `XLS`**
 **activar o suspender accesos según sea necesario.**
 
@@ -38,7 +39,7 @@ Dentro de esta sección es posible:
 
 ---
 
-### Modal de detalle (Action)
+### Modal de detalle Action
 
 Al dar clic en el botón **Action**, se abre una ventana modal que muestra información completa de la suscripción del cliente, entre la que se incluye:
 
