@@ -32,3 +32,5 @@ sidebar_position: 12
 **Notification Message**
 
 **En esta sección se define el mensaje personalizado que recibirán los usuarios en las notificaciones o correos relacionados con el periodo de prueba. Esto facilita adaptar la comunicación al tono o identidad de la organización.**
+
+![MFA-Disable](/img/backoffice-user/image_general_settings.png)
