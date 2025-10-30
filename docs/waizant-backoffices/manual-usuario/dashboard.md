@@ -4,7 +4,12 @@ sidebar_position: 4
 
 # Dashboard
 
-**1. El modulo de Dashboard es el encargado de tener y mostrar las métricas del proyecto, inicialmente se muestra unas card:** Total User, Sales to date, Sold plans, Avg. sales rate
+**1. El modulo de Dashboard es el encargado de tener y mostrar las métricas del proyecto, inicialmente se muestra unas card:**
+
+- **Total User**
+- **Sales to date**
+- **Sold plans**
+- **Avg. sales rate**
 
 ---
 
@@ -12,19 +17,10 @@ sidebar_position: 4
 
 **\*`Nota:` existe un campo de calendario, ahí se puede buscar por fechas para mostrar la información de las card**
 
-**`a)` `Total User:`**
-Se muestra el total de usuarios que se han registrado, también hace la division donde hay dos opciones una donde muestran los usuarios activos, "active Users" y los usuarios inactivos "Inactive Users".
-
-**`b)` `Sales to date:`**
-Es el total de lo que se a obtenido en cuanto a las ganancias de las suscripciones planes, encounters, Current mounth es para mostrar las ganancias que se ha hecho en el mes actual.
-
-**`c)` `Sold plans:`**
-Se muestra la totalidad de los planes adquiridos por los usuarios que se han inscrito, a su vez muestra cuantos planes están activos Active Plans e Inactive Plans.
-
-**`d)` `Avg. sales rate:`**
-Se refleja el promedio de las ventas totales con los planes vendidos para sacar un promedio de lo que podria costar un ecosistema o tener una referencia,
-en la parte inferior se encuentra el indicador “Up from past”, el cual muestra el porcentaje de ganancias o pérdidas en comparación con el mes anterior.
-Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las ganancias han aumentado o disminuido respecto a abril.
+- **Total User: Se muestra el total de usuarios que se han registrado, también hace la division donde hay dos opciones una donde muestran los usuarios activos, "active Users" y los usuarios inactivos "Inactive Users".**
+- **Sales to date: Es el total de lo que se a obtenido en cuanto a las ganancias de las suscripciones planes, encounters, Current mounth es para mostrar las ganancias que se ha hecho en el mes actual.**
+- **Sold plans: Se muestra la totalidad de los planes adquiridos por los usuarios que se han inscrito, a su vez muestra cuantos planes están activos Active Plans e Inactive Plans.**
+- **Avg. sales rate: Se refleja el promedio de las ventas totales con los planes vendidos para sacar un promedio de lo que podria costar un ecosistema o tener una referencia, en la parte inferior se encuentra el indicador “Up from past”, el cual muestra el porcentaje de ganancias o pérdidas en comparación con el mes anterior. Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las ganancias han aumentado o disminuido respecto a abril.**
 
 - **Si el resultado es positivo, la gráfica se mostrará en color verde, indicando un incremento en las ganancias.**
 - **Si el resultado es negativo, la gráfica se mostrará en color rojo, lo que indica que en el mes actual no se han obtenido ganancias positivas.**
@@ -46,9 +42,13 @@ Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las gananc
 ## Sales by plan
 
 ![MFA-Disable](/img/backoffice-user/sales_plan_backoffice.png)
-**`a)` En esta opción se muestran los porcentajes de los planes han comprado, existen 3 planes actualmente `Lite plan, Plus plan y Premium Plan`**
+**En esta opción se muestran los porcentajes de los planes han comprado, existen 3 planes actualmente**
 
-**`b)`También tiene la opción de descargar en un archivo xls para visualizar mas detalladamente y automaticamente queda guardado en el computador.**
+- **Lite plan**
+- **Plus plan**
+- **Premium Plan**
+
+**También tiene la opción de descargar en un archivo xls para visualizar mas detalladamente y automaticamente queda guardado en el computador.**
 
 ---
 
@@ -58,13 +58,13 @@ Por ejemplo, si te encuentras en el mes de mayo, podrás verificar si las gananc
 
 ![MFA-Disable](/img/backoffice-user/type_clients_backoffice.png)
 
-**En esta opción se muestran los tipos de `clientes, Customers` y Leads a su derecha se obtiene el porcentaje, tiene un botón que al darle clic lleva a una vista con el listado de los clientes.**
+**En esta opción se muestran los tipos de clientes, Customers y Leads a su derecha se obtiene el porcentaje, tiene un botón que al darle clic lleva a una vista con el listado de los clientes.**
 
-### `Customers:` Usuarios que han completado el proceso de compra o suscripción
+### Customers: Usuarios que han completado el proceso de compra o suscripción
 
 ![MFA-Disable](/img/backoffice-user/customer_backoffice.png)
 
-### `Leads:` Usuarios que iniciaron el proceso pero no finalizaron ninguna adquisición
+### Leads: Usuarios que iniciaron el proceso pero no finalizaron ninguna adquisición
 
 ![MFA-Disable](/img/backoffice-user/leads_backoffice.png)
 
