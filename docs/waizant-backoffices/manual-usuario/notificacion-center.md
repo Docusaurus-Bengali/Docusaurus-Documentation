@@ -74,19 +74,14 @@ sidebar_position: 6
 **Vista del listado de notificaciones:**
 
 ![MFA-Disable](/img/backoffice-user/list_notifications_backoffice.png)
-**a) En esta vista del listado contienen varios items, Notification title Type Creation Date Publication date Status Action**
+**En esta vista del listado contienen varios items, Notification title Type Creation Date Publication date Status Action**
 
-**\*Notification title: En esta opción se mostrara el titulo de la notificación que se haya seleccionado.**
-
-**\*Type: En esta opción se muestra el tipo de notificación que se agrego.**
-
-**\*Creation Date: En esta opción se muestra la fecha que se cio la notificación.**
-
-**\*Publication date: En esta opción se muestra la fecha en la que se asigno que llegara la notificación.**
-
-**\*Status: Esta opción varia dependiendo del estado de la alerta cuando se envía estatus estará en draft, pero cuando ya le llega la notificación al usuario el status cambia a Published.**
-
-**\*Action: En esta opción se visualizan don botones, Edit, Reprogam Delete**
+- **Notification title: En esta opción se mostrara el titulo de la notificación que se haya seleccionado.**
+- **Type: En esta opción se muestra el tipo de notificación que se agrego.**
+- **Creation Date: En esta opción se muestra la fecha que se cio la notificación.**
+- **Publication date: En esta opción se muestra la fecha en la que se asigno que llegara la notificación.**
+- **Status: Esta opción varia dependiendo del estado de la alerta cuando se envía estatus estará en draft, pero cuando ya le llega la notificación al usuario el status cambia a Published.**
+- **Action: En esta opción se visualizan don botones, Edit, Reprogam Delete**
 
 ![MFA-Disable](/img/backoffice-user/edit_notification_backoffice.png)
 
