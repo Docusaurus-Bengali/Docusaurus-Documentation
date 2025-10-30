@@ -20,7 +20,7 @@ sidebar_position: 1
 
 ---
 
-**Store User:El módulo Store User es el centro de control para la administración a diferencia de los usuarios administrativos, este módulo está diseñado para gestionar a los usuarios finales, que se dividen en dos grupos principales: clientes Customers y potenciales clientes Leads. Su función principal es mantener un control riguroso sobre quién accede al sistema y cómo se gestiona su información, lo cual es vital para las operaciones de negocio y la relación con el usuario.**
+**Store User: El módulo Store User es el centro de control para la administración a diferencia de los usuarios administrativos, este módulo está diseñado para gestionar a los usuarios finales, que se dividen en dos grupos principales: clientes Customers y potenciales clientes Leads. Su función principal es mantener un control riguroso sobre quién accede al sistema y cómo se gestiona su información, lo cual es vital para las operaciones de negocio y la relación con el usuario.**
 
 - **Gestión de Clientes y Leads: Permite a los administradores ver y gestionar listas separadas para clientes y potenciales clientes.**
 - **Control del Perfil: Facilita la visualización de la información clave como nombre, correo electrónico y compañía.**
@@ -36,7 +36,7 @@ sidebar_position: 1
 
 **Notification Center: El modulo Notification Center es el cerebro detrás de la comunicación interna del sistema. Su función es centralizar, organizar y distribuir todas las notificaciones relevantes a los usuarios Waizant.**
 
-**¿Qué incluye? Administra una amplia variedad de notificaciones, desde alertas del sistema (por ejemplo, "el sistema se actualizará pronto"), mensajes informativos, hasta notificaciones personalizadas. Este módulo asegura que cada notificación llegue a tiempo, sea visible en un panel centralizado, y que los usuarios puedan marcarla como leída para mantener su bandeja de entrada organizada.**
+**¿Qué incluye? Administra una amplia variedad de notificaciones, desde alertas del sistema por ejemplo, "el sistema se actualizará pronto", mensajes informativos, hasta notificaciones personalizadas. Este módulo asegura que cada notificación llegue a tiempo, sea visible en un panel centralizado, y que los usuarios puedan marcarla como leída para mantener su bandeja de entrada organizada.**
 
 \*Más información aquí{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/notificacion-center"className="info">Notification Center</a>
@@ -67,7 +67,7 @@ sidebar_position: 1
 
 **User System: El módulo de User System es un componente crucial para la seguridad y el control del acceso en el BackOffice. Se encarga de gestionar a los usuarios que tienen privilegios de administración, a diferencia de los usuarios finales Store User.**
 
-**¿Qué incluye? Controla quién puede acceder al panel de administración, qué roles tienen (por ejemplo), "administrador", por lo tanto, qué acciones puede realizar. Define permisos detallados, como la capacidad de ver estadísticas confidenciales, editar contenido o gestionar la configuración del sistema.**
+**¿Qué incluye? Controla quién puede acceder al panel de administración, qué roles tienen por ejemplo, "administrador", por lo tanto, qué acciones puede realizar. Define permisos detallados, como la capacidad de ver estadísticas confidenciales, editar contenido o gestionar la configuración del sistema.**
 
 \*Más información aquí{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/user-system"className="info">User System</a>
@@ -82,14 +82,14 @@ sidebar_position: 1
 
 - **Creación y Edición de Especialidades: Permite a los administradores crear, nombrar y gestionar una lista completa de especialidades médicas ej. Cardiología, Pediatría, Dermatología.**
 
-- **Filtrado y Búsqueda: Actúa como un filtro clave en el sistema. Permite a los usuarios buscar y visualizar información (como citas o historiales médicos) basada en una especialidad específica, mejorando la eficiencia y la navegación.**
+- **Filtrado y Búsqueda: Actúa como un filtro clave en el sistema. Permite a los usuarios buscar y visualizar información como citas o historiales médicos basada en una especialidad específica, mejorando la eficiencia y la navegación.**
 
 \*Más información aquí{' '}
 <a href="/docs/waizant-backoffices/manual-usuario/medical-specialty"className="info">Medical Specialty</a>
 
 ---
 
-**Profile Settings: El módulo de Profile Settings es donde el usuario (en este caso, un usuario administrativo) puede gestionar y personalizar su propia información del BackOffice.**
+**Profile Settings: El módulo de Profile Settings es donde el usuario en este caso, un usuario administrativo puede gestionar y personalizar su propia información del BackOffice.**
 
 **¿Qué incluye? Ofrece funcionalidades para que el usuario pueda editar su información personal nombre, contraseña, personalizar y configurar la herramienta del multifactor. A diferencia del módulo de "User System" que es para la gestión general de usuarios, este módulo está diseñado para que cada usuario individualmente ajuste su experiencia personal.**
 

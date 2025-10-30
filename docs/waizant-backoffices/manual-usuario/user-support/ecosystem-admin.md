@@ -45,6 +45,8 @@ sidebar_position: 3
 
 ![MFA-Disable](/img/backoffice-user/images_succesor/cancel_process_admin_backoffice.png)
 
+para nosotros poder realizar el proceso de soporte a un usuario desde backoffices el administrador del ecosistema al que vamos a hacer el soporte debe de haber iniciado ya un proceso de sucesión y este ya tuvo que fallar para realizar el proceso de soporte, de lo contrario solo lograremos ver la linea de tiempo que esta ligada a dicho usuario.
+
 :::info
 Más información de los pasos del Successor{' '}
 <a href="/docs/waizant-store/manual-usuario/plan-settings/ecosystem-details/ecosystem-successor"className="info">Aquí</a>
