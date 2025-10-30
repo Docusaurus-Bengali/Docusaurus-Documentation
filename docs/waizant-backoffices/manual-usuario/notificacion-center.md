@@ -33,32 +33,27 @@ sidebar_position: 6
 
 ![MFA-Disable](/img/backoffice-user/create_notifications_backoffice.png)
 
-***Single User:**
+**\*Single User:**
 
 **En la tab de Single User se mostrara opciones para llenar campos los cuales son obligatorios.**
 
-**`Notification title:`**
-En esta opción se agregará el título de la notificación, su limite de es de 50 caracteres .
+**Notification title: En esta opción se agregará el título de la notificación, su limite de es de 50 caracteres .**
 
-**`Notification type:`**
-En esta opción se puede elegir que tipo de notificación se desea al darle clic se despliegan las opciones.
+**Notification type: En esta opción se puede elegir que tipo de notificación se desea al darle clic se despliegan las opciones.**
 
 ![MFA-Disable](/img/backoffice-user/options_type_notification.png)
 
-**`Notification content:`**
-En esta opción se agrega el contenido que se quiera mostrar en la notificación, su limite máximo es de 120 caracteres.
+**Notification content: En esta opción se agrega el contenido que se quiera mostrar en la notificación, su limite máximo es de 120 caracteres.**
 
-**`Schedule notification:`**
-Este toogle sirve para seleccionar la fecha en la cual se quiere generar la notificación.
+**Schedule notification: Este toogle sirve para seleccionar la fecha en la cual se quiere generar la notificación.**
 
 ![MFA-Disable](/img/backoffice-user/option_date_notification.png)
 
-**`Addresses:`**
-Esta opción es un filtro se debe dal clic para que se muestre un filtro de búsqueda, donde se agregan los correos a quien se desee enviar, filtra con las primeras letras ahi se muestra unas opciones para elegir la que se requiera o si se desea enviar a varios correos también se puede realizar ya que tiene la opción de selección multiple.
+**Addresses: Esta opción es un filtro se debe dal clic para que se muestre un filtro de búsqueda, donde se agregan los correos a quien se desee enviar, filtra con las primeras letras ahi se muestra unas opciones para elegir la que se requiera o si se desea enviar a varios correos también se puede realizar ya que tiene la opción de selección multiple.**
 
 ![MFA-Disable](/img/backoffice-user/filters_adress_notification.png)
 
-***`Nota:` Existen 3 botones Cancel, Save af draft, send to**
+**\*`Nota:` Existen 3 botones Cancel, Save af draft, send to**
 
 **Cancel: cierra el formulario actual sin guardar los cambios realizados.**
 
@@ -75,26 +70,27 @@ Esta opción es un filtro se debe dal clic para que se muestre un filtro de bús
 ![MFA-Disable](/img/backoffice-user/group_of_recipients.png)
 
 ---
+
 **Vista del listado de notificaciones:**
 
 ![MFA-Disable](/img/backoffice-user/list_notifications_backoffice.png)
 **a) En esta vista del listado contienen varios items, Notification title Type Creation Date Publication date Status Action**
 
-***`Notification title:` En esta opción se mostrara el titulo de la notificación que se haya seleccionado.**
+**\*Notification title: En esta opción se mostrara el titulo de la notificación que se haya seleccionado.**
 
-***`Type:` En esta opción se muestra el tipo de notificación que se agrego.**
+**\*Type: En esta opción se muestra el tipo de notificación que se agrego.**
 
-***`Creation Date:` En esta opción se muestra la fecha que se cio la notificación.**
+**\*Creation Date: En esta opción se muestra la fecha que se cio la notificación.**
 
-***`Publication date:` En esta opción se muestra la fecha en la que se asigno que llegara la notificación.**
+**\*Publication date: En esta opción se muestra la fecha en la que se asigno que llegara la notificación.**
 
-***`Status:` Esta opción varia dependiendo del estado de la alerta cuando se envía estatus estará en draft, pero cuando ya le llega la notificación al usuario el status cambia a Published.**
+**\*Status: Esta opción varia dependiendo del estado de la alerta cuando se envía estatus estará en draft, pero cuando ya le llega la notificación al usuario el status cambia a Published.**
 
-***`Action:` En esta opción se visualizan don botones, Edit, Reprogam Delete**
+**\*Action: En esta opción se visualizan don botones, Edit, Reprogam Delete**
 
 ![MFA-Disable](/img/backoffice-user/edit_notification_backoffice.png)
 
-***`Nota:` Los botones de Edit, Reprogam se renderizan dependiendo el status en el que se encuentre la notificación, si la notificación en el status esta en draft el botón se mostrara Edit y al darle clic se puede editar cualquier actualización que se desee, cuando ya la notificación fue entregada el botón cambia su status si el status esta en published el botón cambia de ser Edit a ser Reprogam, el cual al darle clic se mostrara la opción de crear notificación pero con los datos de la notificación creada, al realizar esta acción no se modificara la notificación, esto hace que se cree otra notificación a partir de la que ya esta creada.**
+**\*`Nota:` Los botones de Edit, Reprogam se renderizan dependiendo el status en el que se encuentre la notificación, si la notificación en el status esta en draft el botón se mostrara Edit y al darle clic se puede editar cualquier actualización que se desee, cuando ya la notificación fue entregada el botón cambia su status si el status esta en published el botón cambia de ser Edit a ser Reprogam, el cual al darle clic se mostrara la opción de crear notificación pero con los datos de la notificación creada, al realizar esta acción no se modificara la notificación, esto hace que se cree otra notificación a partir de la que ya esta creada.**
 
 ![MFA-Disable](/img/backoffice-user/buttons_save_as_draft.png)
 
@@ -110,12 +106,10 @@ Esta opción es un filtro se debe dal clic para que se muestre un filtro de bús
 
 **Al hacer clic sobre la campana, se despliega una ventana lateral que muestra las notificaciones recibidas, separadas en dos pestañas:**
 
-***`All:`**
- Muestra el historial completo de notificaciones.
+**\*All: Muestra el historial completo de notificaciones.**
 
 ![MFA-Disable](/img/backoffice-user/icons_notificatios_backoffice.png)
 
-***`Unread:`**
-Muestra únicamente las notificaciones que no han sido leídas.
+**\*Unread: Muestra únicamente las notificaciones que no han sido leídas.**
 
 ![MFA-Disable](/img/backoffice-user/notifications_center_unread.png)
