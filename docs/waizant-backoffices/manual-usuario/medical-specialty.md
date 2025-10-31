@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Medical Specialty
 
-**El módulo Medical Specialty se encarga de la gestión centralizada de las especialidades médicas disponibles en el ecosistema de Waizant. Su propósito principal es mantener un catálogo actualizado y estructurado de especialidades, que sirve como base para diversos procesos clínicos y administrativos dentro del sistema.**
+**El módulo Medical Specialty permite gestionar el listado de especialidades médicas disponibles en el sistema. Desde esta sección, los usuarios pueden crear, editar y activar o desactivar especialidades según sea necesario.**
 
 **Entre sus principales funciones se incluyen la configuración de perfiles de profesionales de la salud, la asignación de agendas, la categorización de casos clínicos y la segmentación de servicios según el tipo de atención requerida.**
 
@@ -24,7 +24,7 @@ sidebar_position: 10
 
 **Activación y desactivación:**
 
-**A través de un interruptor tipo toggle, los administradores pueden activar o desactivar especialidades médicas. Esta funcionalidad permite mantener el catálogo actualizado sin necesidad de eliminar registros históricos que podrían estar asociados a información clínica.**
+**A través de un toggle, los administradores pueden activar o desactivar especialidades médicas. Esta funcionalidad permite mantener el catálogo actualizado sin necesidad de eliminar registros históricos que podrían estar asociados a información clínica.**
 
 **Búsqueda y filtrado:**
 
