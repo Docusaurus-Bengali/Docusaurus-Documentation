@@ -54,22 +54,32 @@ Para Más información sobre el metodo.
 
 ![Pagar servicios](/img/store-usuario/plan-settings/card-ecosystem/card-funcionality/pay_error.png)
 
-**1.**
+**`1.Factura a Pagar:`** Al momento de seleccionar el reintento del pago de su suscripción, al usuario se le mostrara esta modal en donde se mostraran toda la cuenta de lo que este mismo debe dandole la opción de pagar o cacelar.
 
 ---
 
 ![Pagar servicios](/img/store-usuario/plan-settings/card-ecosystem/card-funcionality/retry_pay_error.png)
 
-**2.**
+**`2.Pago rechazado:`** Esta vista se le mostrara al usuario cuando seleccione el botón de pagar y se presente un error al momento de la transacción y el pago sea rechazado, dando la opción al usuario para cambiar el metodo de pago o cancelar.
 
 ---
 
 ![Pagar servicios](/img/store-usuario/plan-settings/card-ecosystem/card-funcionality/pay_error_succesfull.png)
 
-**3.**
+**`3.Pago Aceptado:`** Cuando el pago de la suscripción se completa con exito al usuario se le muestra la factura que acaba de pagar y se le da la opción para cerrar la modal.
 
 ---
 
 ## Pay Error Services
 
 ![Pagar servicios](/img/store-usuario/plan-settings/card-ecosystem/card-funcionality/status_pay_services_error-pay-services-action.png)
+
+**`1.Factura a Pagar:`** Al momento de seleccionar el reintento del pago de su suscripción, al usuario se le mostrara esta modal en donde se mostraran toda la cuenta de lo que este mismo debe dandole la opción de pagar o cacelar.
+
+![Pagar servicios](/img/store-usuario/plan-settings/card-ecosystem/card-funcionality/status_pay_services_error-pay-services-action-error.png)
+
+**`2.Pago rechazado:`** Esta vista se le mostrara al usuario cuando seleccione el botón de pagar y se presente un error al momento de la transacción y el pago sea rechazado, dando la opción al usuario para cambiar el metodo de pago o cancelar.
+
+![Pagar servicios](/img/store-usuario/plan-settings/card-ecosystem/card-funcionality/status_pay_services_error-pay-services-action-succes.png)
+
+**`3.Pago Aceptado:`** Cuando el pago de la suscripción se completa con exito al usuario se le muestra la factura que acaba de pagar y se le da la opción para cerrar la modal.
